@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2010-01-11 22:42+0100\n"
-"PO-Revision-Date: 2010-01-11 22:42+0100\n"
-"Last-Translator: Automatically generated\n"
+"PO-Revision-Date: 2008-06-07 23:59+0100\n"
+"Last-Translator: Viliam Búr <viliam@bur.sk>\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -14,7 +14,7 @@ msgstr ""
 #. [multiplayer]: id=multiplayer_Tomb_of_Kings
 #: Pack_Sapient/scenarios/2p_Tomb_of_Kings.cfg:5
 msgid "2p - Tomb of Kings"
-msgstr ""
+msgstr "2p - Mauzoleum kráľov"
 
 #. [multiplayer]: id=multiplayer_Tomb_of_Kings
 #: Pack_Sapient/scenarios/2p_Tomb_of_Kings.cfg:6
@@ -23,53 +23,56 @@ msgid ""
 "when both sides agreed to built great shrines in their honor. (Recommended "
 "setting of 1 gold per village)"
 msgstr ""
+"Pred vela a vela rokmi.Dvaja mocný kraly zahynuli v bitke nedaleko tejto "
+"jaskyne.Celá vojna bola prerušená až sa obidve strany dohodly postaviť tu "
+"svätinu ako spomienku ich slávy. (Odporúčané nastavenie 1 zlatka na dedinu)"
 
 #. [side]
 #: Pack_Sapient/scenarios/2p_Tomb_of_Kings.cfg:24
 msgid "South"
-msgstr ""
+msgstr "Juh"
 
 #. [side]
 #: Pack_Sapient/scenarios/2p_Tomb_of_Kings.cfg:36
 msgid "North"
-msgstr ""
+msgstr "Sever"
 
 #. [objectives]
 #: Pack_Sapient/scenarios/2p_Tomb_of_Kings.cfg:43
 msgid "Recommended setting: 1gpv"
-msgstr ""
+msgstr "Doporučené nastavenie:1zlatá na dedinu"
 
 #. [objective]: condition=win
 #: Pack_Sapient/scenarios/2p_Tomb_of_Kings.cfg:45
 msgid "Defeat the enemy leader."
-msgstr ""
+msgstr "Poraz nepriatelského vodcu"
 
 #. [objective]: condition=lose
 #: Pack_Sapient/scenarios/2p_Tomb_of_Kings.cfg:49
 msgid "Your leader dies."
-msgstr ""
+msgstr "Tvoj veliteľ zahinie"
 
 #. [objective]: condition=lose
 #: Pack_Sapient/scenarios/2p_Tomb_of_Kings.cfg:53
 #: Pack_Sapient/scenarios/4p_Mega_2v2.cfg:99
 #: Pack_Sapient/scenarios/4p_Mega_2v2.cfg:121
 msgid "End of turns."
-msgstr ""
+msgstr "Čas vyprší"
 
 #. [objectives]
 #: Pack_Sapient/scenarios/2p_Tomb_of_Kings.cfg:56
 msgid "A section of the tomb wall crumbles on turn 20."
-msgstr ""
+msgstr "Steny hrobiek sa rozpadnú v 20 kole"
 
 #. [message]: speaker=narrator
 #: Pack_Sapient/scenarios/2p_Tomb_of_Kings.cfg:71
 msgid "The earth shakes."
-msgstr ""
+msgstr "Zem sa trasie"
 
 #. [multiplayer]: id=multiplayer_Mega_2v2
 #: Pack_Sapient/scenarios/4p_Mega_2v2.cfg:9
 msgid "4p - Mega War (2v2)"
-msgstr ""
+msgstr "4p - Mega War (2v2)"
 
 #. [multiplayer]: id=multiplayer_Mega_2v2
 #: Pack_Sapient/scenarios/4p_Mega_2v2.cfg:11
@@ -77,63 +80,65 @@ msgid ""
 "The kingdoms of the legs fight against those in the blaster and ear. "
 "(Recommended setting of 1 gold per village and Great War Era)"
 msgstr ""
+"Královstvá v noháh boju proti tym v blastery a uchu.(doporučené "
+"nastavenie:1zlatá za dedinu)"
 
 #. [time]
 #: Pack_Sapient/scenarios/4p_Mega_2v2.cfg:22
 msgid "Magical Darkness"
-msgstr ""
+msgstr "Magická temnota"
 
 #. [side]
 #: Pack_Sapient/scenarios/4p_Mega_2v2.cfg:34
 msgid "Left Leg"
-msgstr ""
+msgstr "Lavá noha"
 
 #. [side]
 #: Pack_Sapient/scenarios/4p_Mega_2v2.cfg:36
 #: Pack_Sapient/scenarios/4p_Mega_2v2.cfg:62
 msgid "south"
-msgstr ""
+msgstr "juh"
 
 #. [side]
 #: Pack_Sapient/scenarios/4p_Mega_2v2.cfg:47
 msgid "Control Chip"
-msgstr ""
+msgstr "kontrolný čip"
 
 #. [side]
 #: Pack_Sapient/scenarios/4p_Mega_2v2.cfg:49
 #: Pack_Sapient/scenarios/4p_Mega_2v2.cfg:75
 msgid "north"
-msgstr ""
+msgstr "sever"
 
 #. [side]
 #: Pack_Sapient/scenarios/4p_Mega_2v2.cfg:60
 msgid "Right Leg"
-msgstr ""
+msgstr "pravá noha"
 
 #. [side]
 #: Pack_Sapient/scenarios/4p_Mega_2v2.cfg:73
 msgid "X-Blaster"
-msgstr ""
+msgstr "X-Blaster"
 
 #. [objectives]
 #: Pack_Sapient/scenarios/4p_Mega_2v2.cfg:89
 #: Pack_Sapient/scenarios/4p_Mega_2v2.cfg:111
 msgid "Recommended settings: 1gpv, Great War Era"
-msgstr ""
+msgstr "Doporučené nastavenie:1zlatá za dedinu a vek Velká vojna"
 
 #. [objective]: condition=win
 #. [objective]: condition=lose
 #: Pack_Sapient/scenarios/4p_Mega_2v2.cfg:91
 #: Pack_Sapient/scenarios/4p_Mega_2v2.cfg:117
 msgid "Death of the northern alliance leaders."
-msgstr ""
+msgstr "Smrť vodcov severnej aliancie."
 
 #. [objective]: condition=lose
 #. [objective]: condition=win
 #: Pack_Sapient/scenarios/4p_Mega_2v2.cfg:95
 #: Pack_Sapient/scenarios/4p_Mega_2v2.cfg:113
 msgid "Death of the southern alliance leaders."
-msgstr ""
+msgstr "Smrť vodcov južnej aliancie"
 
 #. [objectives]
 #: Pack_Sapient/scenarios/4p_Mega_2v2.cfg:104
@@ -143,158 +148,163 @@ msgid ""
 "Anyone can use them to travel to the other gates.\n"
 "If the destination gate is occupied, the units will swap places."
 msgstr ""
+"Na mape sú 3 teleportovacie brány(Lad,Piesok a temnota).\n"
+"Hocikdo ich môže použiť na cestovanie do ostatných z nich.\n"
+"Pokial je cielová brána obsadená jednotky sa vymenia."
 
 #. [message]: speaker=narrator
 #: Pack_Sapient/scenarios/4p_Mega_2v2.cfg:207
 msgid "The portal is inscribed with three runes. What will you do?"
-msgstr ""
+msgstr "Tento portál je popísaní 3 runami:Čo spravýš?"
 
 #. [option]: speaker=narrator
 #: Pack_Sapient/scenarios/4p_Mega_2v2.cfg:209
 msgid "Press the Sand Rune"
-msgstr ""
+msgstr "Potlačíš runu piesku"
 
 #. [option]: speaker=narrator
 #: Pack_Sapient/scenarios/4p_Mega_2v2.cfg:213
 msgid "Press the Ice Rune"
-msgstr ""
+msgstr "Potlačíš runu ladu"
 
 #. [option]: speaker=narrator
 #: Pack_Sapient/scenarios/4p_Mega_2v2.cfg:217
 msgid "Press the Darkness Rune"
-msgstr ""
+msgstr "Potlačíš runu temnoty"
 
 #. [multiplayer]: id=multiplayer_Northerners_RPG
 #: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:9
 msgid "4p - Northerners RPG"
-msgstr ""
+msgstr "4p - Severské RPG"
 
 #. [multiplayer]: id=multiplayer_Northerners_RPG
 #: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:10
 msgid "A multiplayer map for the Northerners in an RPG-style scenario."
-msgstr ""
+msgstr "Severský mapa je pre viac hráčov v RPG scenáry."
 
 #. [multiplayer]: id=multiplayer_Northerners_RPG
 #: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:10
 msgid "(Suggestion: fog of war, 1gpv, 70 turns, Use Map Settings)"
 msgstr ""
+"(Doporučené nastavenie:hmla,1zlatá za dedinu,70kôl,Použi nastavenia mapy)"
 
 #. [object]: id={ID}
 #: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:40
 msgid "Lotus Blossom"
-msgstr ""
+msgstr "Lotosový kvet"
 
 #. [object]: id={ID}
 #: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:43
 msgid "The Lotus heightens zen; ranged weapons are faster."
-msgstr ""
+msgstr "Lotus zvyšuje zen; dodá strelám rýchlosť."
 
 #. [object]: id={ID}
 #: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:44
 msgid "I hate flowers!"
-msgstr ""
+msgstr "Nemám rád kvetiny!"
 
 #. [object]: id={ID}
 #: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:85
 msgid "An old suit of Armor"
-msgstr ""
+msgstr "Staré brnenie"
 
 #. [object]: id={ID}
 #: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:88
 msgid "This armor is old, but it fits great! Ready for more beatings."
-msgstr ""
+msgstr "Toto brnenie je staré,ale padne mi skvele.Pripravte sa na masaker!"
 
 #. [object]: id={ID}
 #: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:89
 msgid "The armor looks nice, but it's too bulky for me to carry."
-msgstr ""
+msgstr "Toto brnenie vyzerá milo,ale je pre mňa velmi ťažké."
 
 #. [object]: id={ID}
 #: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:140
 msgid "Holy Water"
-msgstr ""
+msgstr "Svätená voda"
 
 #. [object]: id={ID}
 #: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:143
+#, fuzzy
 msgid "This water will make melee weapons arcane."
-msgstr ""
+msgstr "Táta voda posvätí zbrane na blízko."
 
 #. [object]: id={ID}
 #: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:144
 msgid "I am not suited to the use of this item! Let another take it."
-msgstr ""
+msgstr "Tento predmet nie som schopný použiť.Nech ho vezme niekto iný."
 
 #. [object]: id={ID}
 #: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:184
 msgid "Skeletal Claw"
-msgstr ""
+msgstr "Kostený pazúr"
 
 #. [object]: id={ID}
 #: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:187
 msgid "You find a lich's claw, and it hovers at your side obediently."
-msgstr ""
+msgstr "Našiel si pazúr kosteja ktorý sa neúnavne znáša po tvojom boku."
 
 #. [object]: id={ID}
 #: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:188
 msgid "I ain't touching it."
-msgstr ""
+msgstr "S tímto nechcem mať nič spoločného."
 
 #. [effect]: type=cold
 #. [filter_attack]
 #: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:200
 #: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:214
 msgid "lich's claw"
-msgstr ""
+msgstr "pazúr kosteja"
 
 #. [side]
 #: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:261
 msgid "Orcish Grunt"
-msgstr ""
+msgstr "Orkský pešiak"
 
 #. [side]
 #: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:277
 msgid "Troll Whelp"
-msgstr ""
+msgstr "Trol mláďa"
 
 #. [side]
 #: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:292
 msgid "Orcish Archer"
-msgstr ""
+msgstr "Ork strelec"
 
 #. [side]
 #: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:307
 msgid "Orcish Assassin"
-msgstr ""
+msgstr "Ork vrah"
 
 #. [trait]: id=quick
 #: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:438
 msgid "quick"
-msgstr ""
+msgstr "rýchly"
 
 #. [objective]: condition=win
 #: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:514
 msgid "Follow the thief!"
-msgstr ""
+msgstr "Prenasluduj zlodeja!"
 
 #. [objective]: condition=win
 #: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:522
 msgid "Investigate the area behind the waterfall."
-msgstr ""
+msgstr "Pezkúmaj oblasť za vodopádom."
 
 #. [objective]: condition=lose
 #: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:526
 msgid "Death of all characters."
-msgstr ""
+msgstr "Všetci hráči zomrú."
 
 #. [message]: speaker=OrcLeader
 #: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:586
 msgid "My gold! My precious gold! Who has stolen it?"
-msgstr ""
+msgstr "Moje zlato!Moje milované zlato!Kto ho ukradol?"
 
 #. [message]: speaker=ThiefLeader
 #: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:590
 msgid "Yoink! That was easy."
-msgstr ""
+msgstr "He!To by bolo jednoduché."
 
 #. [message]: speaker=OrcLeader
 #: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:616
@@ -303,51 +313,54 @@ msgid ""
 "\n"
 "...and don't come back without my gold, or I'll kill you all myself!"
 msgstr ""
+"Za ním vy bezcenní barbari utiekol za vodopád.\n"
+"\n"
+"...a neopovážte sa vrátiť bez zlata lebo vás pobijem ja sám!"
 
 #. [message]: speaker=unit
 #: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:807
 msgid "Village secured."
-msgstr ""
+msgstr "Dedina je zabezpečená."
 
 #. [message]: speaker=unit
 #: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:834
 msgid "You can't stop me! Never!"
-msgstr ""
+msgstr "Nemôžete ma zastaviť!Nikdy!"
 
 #. [message]: speaker=unit
 #: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:937
 msgid "There's a secret passage here."
-msgstr ""
+msgstr "Je tu tajná chodba."
 
 #. [message]: speaker=unit
 #: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:960
 msgid "This slab won't budge. Maybe if I had a large enough lever."
-msgstr ""
+msgstr "Tá doska sa ani nepohne.Hmmm...možno by to chcelo velké páčidlo."
 
 #. [message]: speaker=narrator
 #: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:1021
 msgid "The great tree seems to be decaying. What will you do?"
-msgstr ""
+msgstr "Zdá sa že tento velký strom zomiera:Čo spravíš?"
 
 #. [option]: speaker=narrator
 #: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:1023
 msgid "Pull off a branch"
-msgstr ""
+msgstr "Odtrhnem z neho konár"
 
 #. [option]: speaker=narrator
 #: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:1052
 msgid "Leave it alone"
-msgstr ""
+msgstr "Nechám ho tak"
 
 #. [message]: speaker=second_unit
 #: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:1070
 msgid "At last, I claim my rightful place: as leader of this clan."
-msgstr ""
+msgstr "Konečne som získal pozíciu ktorá mi právom potrý:vodca tohto klanu."
 
 #. [message]: speaker=second_unit
 #: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:1115
 msgid "Look, a ship! Time to get out of here."
-msgstr ""
+msgstr "Pozrite loď!Najvetčí čas vypadnúť otialto."
 
 #. [message]: speaker=unit
 #: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:1246
@@ -356,6 +369,9 @@ msgid ""
 "\n"
 "Since its loss, my people have lost our way and become pirates."
 msgstr ""
+"Ááá!Takě vy musíte byť tí čo ukradli náš posvetný strom.\n"
+"\n"
+"Po jeho stratení sa môj lud odvrátil od dradícií a stal sa pirátmi."
 
 #. [message]: speaker=second_unit
 #: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:1252
@@ -364,11 +380,14 @@ msgid ""
 "\n"
 "You're next, foolish elf."
 msgstr ""
+"Nezobral som ten váš posvetný strom,možnože som ho ale zabil hehehe\n"
+"\n"
+"Teraz si na rade ti hlúpi elfe."
 
 #. [message]: speaker=unit
 #: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:1264
 msgid "Pirates! You won't take this land without a fight"
-msgstr ""
+msgstr "Piráti!Túto zem bez boja nezaberete!"
 
 #. [message]: speaker=second_unit
 #: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:1270
@@ -378,39 +397,43 @@ msgid ""
 "We went into the caves to find the thief, but he must have died inside. We "
 "never found him."
 msgstr ""
+"Pozri!Ti ma nespoznávaš?\n"
+"\n"
+"Išli sme do jaskýň hladať zlodeja,ale musel v nútri zahinúť.Nikdy sme ho "
+"nenašli."
 
 #. [message]: speaker=unit
 #: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:1274
 msgid "You... look familiar. But, no! It's impossible."
-msgstr ""
+msgstr "Ti...ja ťa spoznávam.Ale,nie!To neni možné."
 
 #. [multiplayer]: id=multiplayer_traitors
 #: Pack_Sapient/scenarios/4p_Traitors_Island.cfg:9
 msgid "4p - Traitor's Island 2v2"
-msgstr ""
+msgstr "4p - Ostrov zradcov 2v2"
 
 #. [multiplayer]: id=multiplayer_traitors
 #: Pack_Sapient/scenarios/4p_Traitors_Island.cfg:11
 msgid "A 'tactical nightmare' where your ally is also your comedy relief."
-msgstr ""
+msgstr "Taktická nočná mora kde je váš spojenec zároveň komický prvok."
 
 #. [objectives]
 #. [multiplayer]: id=multiplayer_traitors
 #: Pack_Sapient/scenarios/4p_Traitors_Island.cfg:11
 #: Pack_Sapient/scenarios/4p_Traitors_Island.cfg:26
 msgid " Recommended setting of Age of Heroes Era and 50 starting gold."
-msgstr ""
+msgstr "Doporučené nastavenia:vek Vek Hrdinov a 50zlatích na štart."
 
 #. [objective]: condition=win
 #: Pack_Sapient/scenarios/6p_Royal_Rumble_Lavaville.cfg:157
 #: Pack_Sapient/scenarios/4p_Traitors_Island.cfg:28
 msgid "Kill enemy leaders!"
-msgstr ""
+msgstr "Zabi nepriatelských vodcov."
 
 #. [multiplayer]: id=multiplayer_The_Royal_Rumble_Lavaville
 #: Pack_Sapient/scenarios/6p_Royal_Rumble_Lavaville.cfg:5
 msgid "6p - Royal Rumble Lava-Village"
-msgstr ""
+msgstr "6p - Královská bitka Lávová-dedina"
 
 #. [multiplayer]: id=multiplayer_The_Royal_Rumble_Lavaville
 #: Pack_Sapient/scenarios/6p_Royal_Rumble_Lavaville.cfg:6
@@ -418,26 +441,28 @@ msgid ""
 "Six rulers vie for the control of Lava Village, where there is told to be an "
 "ancient tome of power. (Suggestion: 30% exp, 5 gpv)"
 msgstr ""
+"6 vládcov súperý o lávovú dedinu,kde so podla legendy nachádza kniha moci."
+"(Doporučené nastavenie:30%skúseností,5zlatých na dedinu)"
 
 #. [time]: id=day
 #: Pack_Sapient/scenarios/6p_Royal_Rumble_Lavaville.cfg:15
 msgid "Day"
-msgstr ""
+msgstr "deň"
 
 #. [time]: id=night
 #: Pack_Sapient/scenarios/6p_Royal_Rumble_Lavaville.cfg:23
 msgid "Night"
-msgstr ""
+msgstr "noc"
 
 #. [objectives]
 #: Pack_Sapient/scenarios/6p_Royal_Rumble_Lavaville.cfg:155
 msgid "Time is shifting fast."
-msgstr ""
+msgstr "Čas rýchlo plinie."
 
 #. [objectives]
 #: Pack_Sapient/scenarios/6p_Royal_Rumble_Lavaville.cfg:160
 msgid "Find the Dark Tome!"
-msgstr ""
+msgstr "Nájdi temnú knihu!"
 
 #. [objectives]
 #: Pack_Sapient/scenarios/6p_Royal_Rumble_Lavaville.cfg:161
@@ -446,28 +471,31 @@ msgid ""
 "`Note: When a leader dies, all of his troops leave the battle, unless one of "
 "them holds the book of power (which is hidden in a random village)."
 msgstr ""
+"\n"
+"`poznámka:Pokial zomre vodca všetky jeho jednotky bojisko opustia a jedna z "
+"nich nemá knihu energie(ktorá sa nachádza v niektorej z dedín)"
 
 #. [object]: id=$tomecount
 #: Pack_Sapient/scenarios/6p_Royal_Rumble_Lavaville.cfg:311
 msgid "Dark Tome"
-msgstr ""
+msgstr "Temná kniha"
 
 #. [object]: id=$tomecount
 #: Pack_Sapient/scenarios/6p_Royal_Rumble_Lavaville.cfg:314
 msgid "A Dark Tome was found here."
-msgstr ""
+msgstr "Tu bola nájdená Temná kniha."
 
 #. [object]: id=$tomecount
 #: Pack_Sapient/scenarios/6p_Royal_Rumble_Lavaville.cfg:315
 msgid "A Dark Tome was found here, but you could not understand it."
-msgstr ""
+msgstr "Tu bola nájdená Temná kniha ale nerozumieš jej"
 
 #. [effect]: type=cold
 #. [filter_attack]
 #: Pack_Sapient/scenarios/6p_Royal_Rumble_Lavaville.cfg:327
 #: Pack_Sapient/scenarios/6p_Royal_Rumble_Lavaville.cfg:341
 msgid "dark tome"
-msgstr ""
+msgstr "temná kniha"
 
 #. [message]: speaker=unit
 #: Pack_Sapient/scenarios/6p_Royal_Rumble_Lavaville.cfg:371
@@ -475,6 +503,8 @@ msgid ""
 "\n"
 "There's no forest for you to hide in."
 msgstr ""
+"\n"
+"neni tu niaky les kde by si sa mohol schovať"
 
 #. [message]: speaker=second_unit
 #: Pack_Sapient/scenarios/6p_Royal_Rumble_Lavaville.cfg:376
@@ -482,6 +512,8 @@ msgid ""
 "\n"
 "There isn't? Oh..."
 msgstr ""
+"\n"
+"neni?oh..."
 
 #. [message]: speaker=second_unit
 #: Pack_Sapient/scenarios/6p_Royal_Rumble_Lavaville.cfg:394
@@ -489,6 +521,8 @@ msgid ""
 "\n"
 "Poisoning me will get you nowhere, criminal."
 msgstr ""
+"\n"
+"Jed ti proti mne nepomôže,kriminálniku."
 
 #. [message]: speaker=unit
 #: Pack_Sapient/scenarios/6p_Royal_Rumble_Lavaville.cfg:399
@@ -496,6 +530,8 @@ msgid ""
 "\n"
 "Thanks for the advice."
 msgstr ""
+"\n"
+"Díki za radu."
 
 #. [message]: speaker=unit
 #: Pack_Sapient/scenarios/6p_Royal_Rumble_Lavaville.cfg:409
@@ -503,6 +539,8 @@ msgid ""
 "\n"
 "Alas... "
 msgstr ""
+"\n"
+"Bohužial..."
 
 #. [message]: speaker=second_unit
 #: Pack_Sapient/scenarios/6p_Royal_Rumble_Lavaville.cfg:414
@@ -510,3 +548,5 @@ msgid ""
 "\n"
 "Ngahaha... First kill! Who wants to be next?!"
 msgstr ""
+"\n"
+"Muhaha...prvý zabitý!Kto chce byť další?!"
