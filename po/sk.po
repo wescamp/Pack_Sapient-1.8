@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2010-01-11 22:42+0100\n"
-"PO-Revision-Date: 2008-06-07 23:59+0100\n"
+"PO-Revision-Date: 2010-04-25 19:18+0100\n"
 "Last-Translator: Viliam Búr <viliam@bur.sk>\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -225,9 +225,8 @@ msgstr "Svätená voda"
 
 #. [object]: id={ID}
 #: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:143
-#, fuzzy
 msgid "This water will make melee weapons arcane."
-msgstr "Táta voda posvätí zbrane na blízko."
+msgstr "Táto voda zmení zbrane na blízko na mystické."
 
 #. [object]: id={ID}
 #: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:144
