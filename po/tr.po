@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-Pack_Sapient\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2010-01-11 22:42+0100\n"
+"POT-Creation-Date: 2010-05-11 00:28+0200\n"
 "PO-Revision-Date: 2008-05-04 15:50+0300\n"
 "Last-Translator: Nilgün Belma Bugüner <nilgun@belgeler.gen.tr>\n"
 "Language-Team: Turkish <wesnoth-tr@googlegroups.com>\n"
@@ -71,7 +71,7 @@ msgid "A section of the tomb wall crumbles on turn 20."
 msgstr "20.elde anıt duvarının bir bölümü yıkılır."
 
 #. [message]: speaker=narrator
-#: Pack_Sapient/scenarios/2p_Tomb_of_Kings.cfg:71
+#: Pack_Sapient/scenarios/2p_Tomb_of_Kings.cfg:68
 msgid "The earth shakes."
 msgstr "Yer sarsılır."
 
@@ -287,32 +287,32 @@ msgid "quick"
 msgstr "hızlı"
 
 #. [objective]: condition=win
-#: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:514
+#: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:510
 msgid "Follow the thief!"
 msgstr "Hırsızı izle!"
 
 #. [objective]: condition=win
-#: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:522
+#: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:518
 msgid "Investigate the area behind the waterfall."
 msgstr "Çağlayan çevresini keşfet."
 
 #. [objective]: condition=lose
-#: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:526
+#: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:522
 msgid "Death of all characters."
 msgstr "Tüm birimleri yen."
 
 #. [message]: speaker=OrcLeader
-#: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:586
+#: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:582
 msgid "My gold! My precious gold! Who has stolen it?"
 msgstr "Altınım! Kıymetli altınım! Kim çaldı onu?"
 
 #. [message]: speaker=ThiefLeader
-#: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:590
+#: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:586
 msgid "Yoink! That was easy."
 msgstr "He he, ne kolay oldu."
 
 #. [message]: speaker=OrcLeader
-#: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:616
+#: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:612
 msgid ""
 "After him, you worthless louts! He went behind the waterfall.\n"
 "\n"
@@ -323,53 +323,53 @@ msgstr ""
 "Altınım olmadan geri gelmeyin yoksa hepinizi kendim öldürürüm."
 
 #. [message]: speaker=unit
-#: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:807
+#: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:789
 msgid "Village secured."
 msgstr "Köy güvenli."
 
 #. [message]: speaker=unit
-#: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:834
+#: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:816
 msgid "You can't stop me! Never!"
 msgstr "Beni yakalayamazsın! Asla!"
 
 #. [message]: speaker=unit
-#: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:937
+#: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:919
 msgid "There's a secret passage here."
 msgstr "Burada gizli bir geçit var."
 
 #. [message]: speaker=unit
-#: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:960
+#: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:942
 msgid "This slab won't budge. Maybe if I had a large enough lever."
 msgstr ""
 "Bu kütük yerinden oynamıyor. Büyükçe bir levyem olsaydı oynatabilirdim."
 
 #. [message]: speaker=narrator
-#: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:1021
+#: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:1003
 msgid "The great tree seems to be decaying. What will you do?"
 msgstr "Büyük ağaç ölmek üzere. Ne yapacağız?"
 
 #. [option]: speaker=narrator
-#: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:1023
+#: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:1005
 msgid "Pull off a branch"
 msgstr "Bir dal kır"
 
 #. [option]: speaker=narrator
-#: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:1052
+#: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:1034
 msgid "Leave it alone"
 msgstr "Bırak git"
 
 #. [message]: speaker=second_unit
-#: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:1070
+#: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:1052
 msgid "At last, I claim my rightful place: as leader of this clan."
 msgstr "Nihayet, bu kabilenin lideri olarak hakettiğim yerdeyim."
 
 #. [message]: speaker=second_unit
-#: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:1115
+#: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:1097
 msgid "Look, a ship! Time to get out of here."
 msgstr "Bak bir gemi! Buradan gitmenin tam zamanı."
 
 #. [message]: speaker=unit
-#: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:1246
+#: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:1228
 msgid ""
 "Ah! So you must be the ones who took our sacred tree.\n"
 "\n"
@@ -380,7 +380,7 @@ msgstr ""
 "Onun kaybı yüzünden halkım yolunu şaşırıp korsan oldu."
 
 #. [message]: speaker=second_unit
-#: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:1252
+#: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:1234
 msgid ""
 "I didn't take your sacred tree, but maybe I did kill it. Heh.\n"
 "\n"
@@ -391,12 +391,12 @@ msgstr ""
 "Sıra sende, aptal elf."
 
 #. [message]: speaker=unit
-#: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:1264
+#: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:1246
 msgid "Pirates! You won't take this land without a fight"
 msgstr "Korsanlar! Beni öldürmeden bu toprakları ele geçiremezsiniz."
 
 #. [message]: speaker=second_unit
-#: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:1270
+#: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:1252
 msgid ""
 "Look! Don't you remember me?\n"
 "\n"
@@ -409,7 +409,7 @@ msgstr ""
 "olmalı. Onu bulamadık."
 
 #. [message]: speaker=unit
-#: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:1274
+#: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:1256
 msgid "You... look familiar. But, no! It's impossible."
 msgstr "Sen... tanıdık geliyorsun. Fakat, hayır! Bu imkansız."
 

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2010-01-11 22:42+0100\n"
+"POT-Creation-Date: 2010-05-11 00:28+0200\n"
 "PO-Revision-Date: 2010-04-25 19:18+0100\n"
 "Last-Translator: Viliam Búr <viliam@bur.sk>\n"
 "Language-Team: none\n"
@@ -65,7 +65,7 @@ msgid "A section of the tomb wall crumbles on turn 20."
 msgstr "Steny hrobiek sa rozpadnú v 20 kole"
 
 #. [message]: speaker=narrator
-#: Pack_Sapient/scenarios/2p_Tomb_of_Kings.cfg:71
+#: Pack_Sapient/scenarios/2p_Tomb_of_Kings.cfg:68
 msgid "The earth shakes."
 msgstr "Zem sa trasie"
 
@@ -281,32 +281,32 @@ msgid "quick"
 msgstr "rýchly"
 
 #. [objective]: condition=win
-#: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:514
+#: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:510
 msgid "Follow the thief!"
 msgstr "Prenasluduj zlodeja!"
 
 #. [objective]: condition=win
-#: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:522
+#: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:518
 msgid "Investigate the area behind the waterfall."
 msgstr "Pezkúmaj oblasť za vodopádom."
 
 #. [objective]: condition=lose
-#: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:526
+#: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:522
 msgid "Death of all characters."
 msgstr "Všetci hráči zomrú."
 
 #. [message]: speaker=OrcLeader
-#: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:586
+#: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:582
 msgid "My gold! My precious gold! Who has stolen it?"
 msgstr "Moje zlato!Moje milované zlato!Kto ho ukradol?"
 
 #. [message]: speaker=ThiefLeader
-#: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:590
+#: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:586
 msgid "Yoink! That was easy."
 msgstr "He!To by bolo jednoduché."
 
 #. [message]: speaker=OrcLeader
-#: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:616
+#: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:612
 msgid ""
 "After him, you worthless louts! He went behind the waterfall.\n"
 "\n"
@@ -317,52 +317,52 @@ msgstr ""
 "...a neopovážte sa vrátiť bez zlata lebo vás pobijem ja sám!"
 
 #. [message]: speaker=unit
-#: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:807
+#: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:789
 msgid "Village secured."
 msgstr "Dedina je zabezpečená."
 
 #. [message]: speaker=unit
-#: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:834
+#: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:816
 msgid "You can't stop me! Never!"
 msgstr "Nemôžete ma zastaviť!Nikdy!"
 
 #. [message]: speaker=unit
-#: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:937
+#: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:919
 msgid "There's a secret passage here."
 msgstr "Je tu tajná chodba."
 
 #. [message]: speaker=unit
-#: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:960
+#: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:942
 msgid "This slab won't budge. Maybe if I had a large enough lever."
 msgstr "Tá doska sa ani nepohne.Hmmm...možno by to chcelo velké páčidlo."
 
 #. [message]: speaker=narrator
-#: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:1021
+#: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:1003
 msgid "The great tree seems to be decaying. What will you do?"
 msgstr "Zdá sa že tento velký strom zomiera:Čo spravíš?"
 
 #. [option]: speaker=narrator
-#: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:1023
+#: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:1005
 msgid "Pull off a branch"
 msgstr "Odtrhnem z neho konár"
 
 #. [option]: speaker=narrator
-#: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:1052
+#: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:1034
 msgid "Leave it alone"
 msgstr "Nechám ho tak"
 
 #. [message]: speaker=second_unit
-#: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:1070
+#: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:1052
 msgid "At last, I claim my rightful place: as leader of this clan."
 msgstr "Konečne som získal pozíciu ktorá mi právom potrý:vodca tohto klanu."
 
 #. [message]: speaker=second_unit
-#: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:1115
+#: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:1097
 msgid "Look, a ship! Time to get out of here."
 msgstr "Pozrite loď!Najvetčí čas vypadnúť otialto."
 
 #. [message]: speaker=unit
-#: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:1246
+#: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:1228
 msgid ""
 "Ah! So you must be the ones who took our sacred tree.\n"
 "\n"
@@ -373,7 +373,7 @@ msgstr ""
 "Po jeho stratení sa môj lud odvrátil od dradícií a stal sa pirátmi."
 
 #. [message]: speaker=second_unit
-#: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:1252
+#: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:1234
 msgid ""
 "I didn't take your sacred tree, but maybe I did kill it. Heh.\n"
 "\n"
@@ -384,12 +384,12 @@ msgstr ""
 "Teraz si na rade ti hlúpi elfe."
 
 #. [message]: speaker=unit
-#: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:1264
+#: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:1246
 msgid "Pirates! You won't take this land without a fight"
 msgstr "Piráti!Túto zem bez boja nezaberete!"
 
 #. [message]: speaker=second_unit
-#: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:1270
+#: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:1252
 msgid ""
 "Look! Don't you remember me?\n"
 "\n"
@@ -402,7 +402,7 @@ msgstr ""
 "nenašli."
 
 #. [message]: speaker=unit
-#: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:1274
+#: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:1256
 msgid "You... look familiar. But, no! It's impossible."
 msgstr "Ti...ja ťa spoznávam.Ale,nie!To neni možné."
 
