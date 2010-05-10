@@ -1,0 +1,6 @@
+0.3.2
+	Fixed textdomain path.
+	Fixed bad macro calls.
+
+0.3.1 (2010)
+	Updated to Wesnoth 1.8.
