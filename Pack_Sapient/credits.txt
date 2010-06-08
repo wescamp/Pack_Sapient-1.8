@@ -15,3 +15,5 @@
 - Miscellanous ideas & help : Doc Paterson, Soliton, Bhetendos, Nickname, Becephalus, and probably various others
 - And of course many thanks to the Wesnoth Development team :)
 - Updated for BfW 1.4: Mythological
+- Original map idea for Twisted Outpost by Jelly the Mad dog
+- Updated for BfW 1.8: Luther
