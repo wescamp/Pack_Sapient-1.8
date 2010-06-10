@@ -7,17 +7,18 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Battle of Wesnoth\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2010-05-11 00:28+0200\n"
+"POT-Creation-Date: 2010-06-10 22:24+0200\n"
 "PO-Revision-Date: 2008-02-18 23:43+0100\n"
 "Last-Translator: Vladimír Slávik <slavik.vladimir@seznam.cz>\n"
 "Language-Team: Czech <wesnoth-cs-l@nospam.buchtovi.cz>\n"
+"Language: cs\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
 "X-Generator: KBabel 1.11.2\n"
-"X-Poedit-Basepath: D:\\Dokumenty\\Translations\\Wescamp\\branches\\1.4"
-"\\Pack_Sapient\n"
+"X-Poedit-Basepath: D:\\Dokumenty\\Translations\\Wescamp\\branches"
+"\\1.4\\Pack_Sapient\n"
 "X-Poedit-Language: Czech\n"
 "X-Poedit-Country: CZECH REPUBLIC\n"
 
@@ -182,6 +183,42 @@ msgstr "Stisknu ledovou runu"
 #: Pack_Sapient/scenarios/4p_Mega_2v2.cfg:217
 msgid "Press the Darkness Rune"
 msgstr "Stisknu runu temnoty"
+
+#. [multiplayer]: id=multiplayer_4p_Morituri_FFA
+#: Pack_Sapient/scenarios/4p_Morituri_FFA.cfg:9
+msgid "4p - Morituri, FFA mod"
+msgstr ""
+
+#. [multiplayer]: id=multiplayer_4p_Morituri_FFA
+#: Pack_Sapient/scenarios/4p_Morituri_FFA.cfg:11
+#, fuzzy
+msgid " Recommended setting of 2 gold per village."
+msgstr "Doporučené nastavení: 1 zlatý na vesnici"
+
+#. [multiplayer]: id=multiplayer_4p_Morituri_FFA
+#: Pack_Sapient/scenarios/4p_Morituri_FFA.cfg:11
+msgid "A new take on an old battlefield."
+msgstr ""
+
+#. [side]
+#: Pack_Sapient/scenarios/4p_Morituri_FFA.cfg:22
+msgid "teamname^North"
+msgstr ""
+
+#. [side]
+#: Pack_Sapient/scenarios/4p_Morituri_FFA.cfg:33
+msgid "teamname^South"
+msgstr ""
+
+#. [side]
+#: Pack_Sapient/scenarios/4p_Morituri_FFA.cfg:44
+msgid "teamname^West"
+msgstr ""
+
+#. [side]
+#: Pack_Sapient/scenarios/4p_Morituri_FFA.cfg:55
+msgid "teamname^East"
+msgstr ""
 
 #. [multiplayer]: id=multiplayer_Northerners_RPG
 #: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:9
@@ -440,6 +477,32 @@ msgstr "Doporučené nastavení: éra 'Věk hrdinů' a 50 zlaťáků pro start."
 #: Pack_Sapient/scenarios/4p_Traitors_Island.cfg:28
 msgid "Kill enemy leaders!"
 msgstr "Zabij nepřátelské vůdce!"
+
+#. [multiplayer]: id=multiplayer_Twisted_Outpost
+#: Pack_Sapient/scenarios/4p_Twisted_Outpost.cfg:7
+msgid "4p - Twisted Outpost"
+msgstr ""
+
+#. [multiplayer]: id=multiplayer_Twisted_Outpost
+#: Pack_Sapient/scenarios/4p_Twisted_Outpost.cfg:9
+msgid ""
+"A very small 2 vs. 2 map. After learning that this outpost had been badly "
+"damaged in a hurricane, two enemy generals lead a bold surprise attack. "
+"Teams set for players 1&4 vs. 2&3 (southeast vs. northwest). Designed for 75 "
+"starting gold, 18 villages."
+msgstr ""
+
+#. [side]
+#: Pack_Sapient/scenarios/4p_Twisted_Outpost.cfg:20
+#: Pack_Sapient/scenarios/4p_Twisted_Outpost.cfg:56
+msgid "teamname^South-East"
+msgstr ""
+
+#. [side]
+#: Pack_Sapient/scenarios/4p_Twisted_Outpost.cfg:32
+#: Pack_Sapient/scenarios/4p_Twisted_Outpost.cfg:44
+msgid "teamname^North-West"
+msgstr ""
 
 #. [multiplayer]: id=multiplayer_The_Royal_Rumble_Lavaville
 #: Pack_Sapient/scenarios/6p_Royal_Rumble_Lavaville.cfg:5
